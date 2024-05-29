@@ -61,6 +61,8 @@ I created a word game about explorers, you can enter different branch plots acco
 ### 🟪 Stage 5
 - Name/Alias: Antara Baijal
 - Github account: https://github.com/abai311
-- Published webpage for stage 5:
+- Published webpage for stage 5: https://abai311.github.io/Exquisite-Corpse-Stage5-time-jockey/
 
-*... comments to be added here*
+For this stage I wanted to to use some simple skills that we had learnt in earlier workshops to add a living entity to Ruiting's stage 4 sketch. I also wanted to keep the theme of this entire assignment intact so I thought to create flowers and their different stages to bloom. However, while working on it I was struggling to create every stage of transformation. So I thought to create just the bud of a flower and a flower in bloom. I wanted to capture the "fullstops" in life and there could be no in between; perhaps evoke the question "what if there was no in between?" 
+
+While trying to create shapes to finally create the flowers, I was looking at different ways of doing it. I came across another P5js sketch that was exactly what I had in mind but all the flowers had already bloomed. I used that sketch as a skeleton to create what I wanted. I changed values that resulted in changing colours, stages of transformation, and the frameCount. Changing these values also let me create different kinds of flowers - not all of them are the same. The original sketch that mine is adapted from did not loop either so I had to change that around but I was only able to do that after I added my sketch to Ruiting's. I wanted to make the flowers loop everytime a button was clicked in her game which it does and everytime the process of growth is over. Unfortunately, it also loops when you click anywhere on the screen and when the process of growth is complete the flowers go back to look the way they did in the original sketch. I was unsuccessful in changing that but overall the sketch does show what I intended it to; the line of different flowers at limited stages of growth in the middle of the game. The flowers only show thier beginning and end but are placed in the middle ("in between") of the game.
